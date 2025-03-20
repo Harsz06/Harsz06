@@ -6,7 +6,7 @@
 ## 📚 My Journey
 ###### 🎓 Second-year student at University Institute of Technology, H.P.U, Shimla
 ###### 🔬 Interned at IIT Mandi, working on deepfake detection research
-###### 💡 Currently learning React and MERN stack
+###### 💡 Enhancing my expertise in React and MERN stack by building real-world projects
 ###### 🎯 Preparing for Google Summer of Code (GSoC) 2026
 
 ## 💻 Tech Stack
