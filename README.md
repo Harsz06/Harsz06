@@ -23,5 +23,6 @@
 ## 📫 Connect with Me
 ###### GitHub: https://github.com/Harsz06
 ###### LinkedIn: https://www.linkedin.com/in/guleria-harsh
+###### Gmail: guleriah59@gmail.com
 
 ## 🔥 "Always Learning, Always Building!" 🚀
