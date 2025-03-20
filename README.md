@@ -22,6 +22,6 @@
 
 ## 📫 Connect with Me
 ###### GitHub: https://github.com/Harsz06
-###### LinkedIn: linkedin.com/in/guleria-harsh
+###### LinkedIn: https://www.linkedin.com/in/guleria-harsh
 
 ## 🔥 "Always Learning, Always Building!" 🚀
