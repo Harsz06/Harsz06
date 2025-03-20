@@ -10,7 +10,7 @@
 ###### 🎯 Preparing for Google Summer of Code (GSoC) 2026
 
 ## 💻 Tech Stack
-###### Frontend: HTML, CSS, JavaScript, React (learning)
+###### Frontend: HTML, CSS, JavaScript, React 
 ###### Backend: Node.js, Express.js
 ###### Database: MongoDB
 ###### AI/ML: PyTorch, TensorBoardX (beginner)
