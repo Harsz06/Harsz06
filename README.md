@@ -1,4 +1,4 @@
-# Hi there, I'm Harsh Guleria! 👋
+# Hi, I'm Harsh Guleria! 👋
 
 ## 🚀 About Me
 ###### I’m a MERN Stack Developer passionate about building scalable web apps and exploring AI-powered deepfake detection. I specialize in MongoDB, Express.js, React, and Node.js, creating dynamic full-stack applications. My research focuses on machine learning for deepfake detection using PyTorch and TensorBoardX. Currently, I'm advancing my MERN skills and exploring AI/ML integration in web development, aiming for GSoC 2026. 🚀
